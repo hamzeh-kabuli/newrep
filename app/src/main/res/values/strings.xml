@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NewBook</string>
+    <string name="contents">فهرست</string>
+    <string name="next">بعدی</string>
+    <string name="prev">قبلی</string>
+    <string name="chapter">فصل:</string>
+    <string name="page">صفحه</string>
+    <string name="from">از</string>
+    <string name="search">عبارت جستجو</string>
+    <string name="search_titles">در عناوین</string>
+    <string name="search_texts">در متن</string>
+    <string name="chapter_title">فصل</string>
+    <string name="section_title">بخش</string>
+    <string name="search_btn">جستجو</string>
+    <string name="bookmarks">علاقمندی ها</string>
+    <string name="areyousure">مطمئنی میخوای حذفش کنی؟</string>
+    <string name="cancel">اشتباه شد</string>
+    <string name="ok">آره بابا</string>
+    <string name="preview">این یک متن نمونه است برای انجام تنظیمات.</string>
+    <string name="set_font">تنظیمات فونت</string>
+    <string name="set_mode">حالت مطالعه</string>
+    <string name="set_linespace">فاصله خط</string>
+    <string name="set_fontsize">سایز فونت</string>
+    <string name="mode_day">حالت روز</string>
+    <string name="mode_night">حالت شب</string>
+
+    <string-array name="fonts">
+        <item>lotus</item>
+        <item>nazanin</item>
+        <item>koodak</item>
+        <item>yekan</item>
+    </string-array>
+</resources>
