@@ -76,6 +76,7 @@ public class PageActivity extends AppCompatActivity {
         dbHelper.opendatabase();
         numOfPages = dbHelper.page_counter("page",section);
         currentPage = 1;
+        
         for(int i = 0 ; i < numOfPages ; i++){
             String text = dbHelper.text_getter("text",section,i+1,0);
             PageClass page = new PageClass(text,i+1);
